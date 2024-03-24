@@ -1,6 +1,7 @@
 # species_classification
 
 Tree species classification based on satellite imagery (50cm resolution, 16bit, 4 bands: RGB, NIR)
+
 Delivered data:
 - Shape file of tree species classification results
 - GeoTiff file of tree species classification results (whole image and each figure)
